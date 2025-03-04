@@ -41,6 +41,21 @@ The dataset used contains the following columns:
 - **Units**: Measurement units for quantities (e.g., thousand m3/d).
 - **Value**: The monetary value of the transaction.
 
+
+## Visualizations
+
+### Gas Trade Analysis
+![Gas Trade Analysis](images/Gas.png)
+
+### Crude Oil Trade Analysis
+![Crude Oil Trade](images/Crude_Oil.png)
+
+### Electricity Trade Analysis
+![Electricity Trade](images/Electricity.png)
+
+### NGL Trade Analysis
+![NGL Trade](images/NGL.png)
+
 ## Future Work
 - Expand the analysis to include other energy products.
 - Incorporate additional external data sources, such as pricing trends or global energy demand.
